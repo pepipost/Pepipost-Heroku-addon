@@ -53,9 +53,9 @@
       
       * Removing the add-on : 
       
-       ```bash
-       heroku addons:destroy pepipost
-       ```
+        ```bash
+        heroku addons:destroy pepipost
+        ```
   
 #### What are requirements to get my pull request(PRs) accepted ?
 
